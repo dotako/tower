@@ -1,4 +1,4 @@
 
 <Version: 1.01>
-/data/test.zip https://zh-hk.wordpress.org/latest-zh_HK.zip
+
 <End of Version>
