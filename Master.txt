@@ -2,3 +2,27 @@
 <Version: 1.01>
 
 <End of Version>
+
+
+<Version: 1.02>
+data/Actors.json https://raw.githubusercontent.com/dotako/tower/main/Actors.json
+data/Animations.json https://raw.githubusercontent.com/dotako/tower/main/Animations.json
+data/Armors.json https://raw.githubusercontent.com/dotako/tower/main/Armors.json
+data/Classes.json https://raw.githubusercontent.com/dotako/tower/main/Classes.json
+data/CommonEvents.json https://raw.githubusercontent.com/dotako/tower/main/CommonEvents.json
+data/Enemies.json https://raw.githubusercontent.com/dotako/tower/main/Enemies.json
+data/Items.json https://raw.githubusercontent.com/dotako/tower/main/Items.json
+data/Map051.json https://raw.githubusercontent.com/dotako/tower/main/Map051.json
+data/Map052.json https://raw.githubusercontent.com/dotako/tower/main/Map052.json
+data/Map053.json https://raw.githubusercontent.com/dotako/tower/main/Map053.json
+data/Map061.json https://raw.githubusercontent.com/dotako/tower/main/Map061.json
+data/Map066.json https://raw.githubusercontent.com/dotako/tower/main/Map066.json
+data/Map067.json https://raw.githubusercontent.com/dotako/tower/main/Map067.json
+data/MapInfos.json https://raw.githubusercontent.com/dotako/tower/main/MapInfos.json
+data/Skills.json https://raw.githubusercontent.com/dotako/tower/main/Skills.json
+data/States.json https://raw.githubusercontent.com/dotako/tower/main/States.json
+data/System.json https://raw.githubusercontent.com/dotako/tower/main/System.json
+data/Tilesets.json https://raw.githubusercontent.com/dotako/tower/main/Tilesets.json
+data/Troops.json https://raw.githubusercontent.com/dotako/tower/main/Troops.json
+data/Weapons.json https://raw.githubusercontent.com/dotako/tower/main/Weapons.json
+<End of Version>
