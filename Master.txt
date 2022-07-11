@@ -138,3 +138,11 @@ data/Skills.json https://raw.githubusercontent.com/dotako/tower/main/Skills.json
 data/System.json https://raw.githubusercontent.com/dotako/tower/main/System.json
 data/Windows.json https://raw.githubusercontent.com/dotako/tower/main/Windows.json
 <End of Version>
+
+<Version: 1.05>
+data/Enemies.json https://raw.githubusercontent.com/dotako/tower/main/Enemies.json
+data/Map013.json https://raw.githubusercontent.com/dotako/tower/main/Map065.json
+data/MapInfos.json https://raw.githubusercontent.com/dotako/tower/main/MapInfos.json
+data/System.json https://raw.githubusercontent.com/dotako/tower/main/System.json
+
+<End of Version>
