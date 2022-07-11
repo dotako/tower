@@ -160,3 +160,9 @@ data/MapInfos.json https://raw.githubusercontent.com/dotako/tower/main/MapInfos.
 data/System.json https://raw.githubusercontent.com/dotako/tower/main/System.json
 
 <End of Version>
+
+<Version: 1.06>
+data/Map013.json https://raw.githubusercontent.com/dotako/tower/main/Map013.json
+data/System.json https://raw.githubusercontent.com/dotako/tower/main/System.json
+
+<End of Version>
