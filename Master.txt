@@ -290,3 +290,8 @@ data/States.json https://raw.githubusercontent.com/dotako/tower/main/States.json
 data/System.json https://raw.githubusercontent.com/dotako/tower/main/System.json
 data/Troops.json https://raw.githubusercontent.com/dotako/tower/main/Troops.json
 <End of Version>
+
+<Version: 1.11>
+data/Map051.json https://raw.githubusercontent.com/dotako/tower/main/Map051.json
+data/System.json https://raw.githubusercontent.com/dotako/tower/main/System.json
+<End of Version>
