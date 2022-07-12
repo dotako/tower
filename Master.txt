@@ -295,3 +295,9 @@ data/Troops.json https://raw.githubusercontent.com/dotako/tower/main/Troops.json
 data/Map051.json https://raw.githubusercontent.com/dotako/tower/main/Map051.json
 data/System.json https://raw.githubusercontent.com/dotako/tower/main/System.json
 <End of Version>
+
+<Version: 1.12>
+data/Map008.json https://raw.githubusercontent.com/dotako/tower/main/Map051.json
+data/System.json https://raw.githubusercontent.com/dotako/tower/main/System.json
+
+<End of Version>
