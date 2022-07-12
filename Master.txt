@@ -205,5 +205,8 @@ data/Map051.json https://raw.githubusercontent.com/dotako/tower/main/Map051.json
 data/Map062.json https://raw.githubusercontent.com/dotako/tower/main/Map062.json
 data/Map074.json https://raw.githubusercontent.com/dotako/tower/main/Map074.json
 data/System.json https://raw.githubusercontent.com/dotako/tower/main/System.json
+<End of Version>
 
+<Version: 1.09>
+data/Map051.json https://raw.githubusercontent.com/dotako/tower/main/Map051.json
 <End of Version>
