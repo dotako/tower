@@ -299,5 +299,31 @@ data/System.json https://raw.githubusercontent.com/dotako/tower/main/System.json
 <Version: 1.12>
 data/Map008.json https://raw.githubusercontent.com/dotako/tower/main/Map051.json
 data/System.json https://raw.githubusercontent.com/dotako/tower/main/System.json
-
 <End of Version>
+
+<Version: 1.13>
+data/CommonEvents.json https://raw.githubusercontent.com/dotako/tower/main/CommonEvents.json
+data/MapInfos.json https://raw.githubusercontent.com/dotako/tower/main/MapInfos.json
+data/System.json https://raw.githubusercontent.com/dotako/tower/main/System.json
+data/Actors.json https://raw.githubusercontent.com/dotako/tower/main/Actors.json
+data/Animations.json https://raw.githubusercontent.com/dotako/tower/main/Animations.json
+data/Armors.json https://raw.githubusercontent.com/dotako/tower/main/Armors.json
+data/Classes.json https://raw.githubusercontent.com/dotako/tower/main/Classes.json
+data/Enemies.json https://raw.githubusercontent.com/dotako/tower/main/Enemies.json
+data/Items.json https://raw.githubusercontent.com/dotako/tower/main/Items.json
+data/Skills.json https://raw.githubusercontent.com/dotako/tower/main/Skills.json
+data/States.json https://raw.githubusercontent.com/dotako/tower/main/States.json
+data/Tilesets.json https://raw.githubusercontent.com/dotako/tower/main/Tilesets.json
+data/Troops.json https://raw.githubusercontent.com/dotako/tower/main/Troops.json
+data/Weapons.json https://raw.githubusercontent.com/dotako/tower/main/Weapons.json
+data/Map076.json https://raw.githubusercontent.com/dotako/tower/main/Map076.json
+data/Map087.json https://raw.githubusercontent.com/dotako/tower/main/Map087.json
+data/Map060.json https://raw.githubusercontent.com/dotako/tower/main/Map060.json
+data/Map085.json https://raw.githubusercontent.com/dotako/tower/main/Map085.json
+data/Map022.json https://raw.githubusercontent.com/dotako/tower/main/Map022.json
+data/Map062.json https://raw.githubusercontent.com/dotako/tower/main/Map062.json
+data/Map007.json https://raw.githubusercontent.com/dotako/tower/main/Map007.json
+data/Map083.json https://raw.githubusercontent.com/dotako/tower/main/Map083.json
+data/Map084.json https://raw.githubusercontent.com/dotako/tower/main/Map084.json
+<End of Version>
+
