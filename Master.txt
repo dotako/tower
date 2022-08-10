@@ -387,7 +387,7 @@ data/System.json https://raw.githubusercontent.com/dotako/tower/main/System.json
 <End of Version>
 
 
-<Version: 1.17.1>
+<Version: 1.18>
 data/Map051.json https://raw.githubusercontent.com/dotako/tower/main/Map051.json
 data/MapInfos.json https://raw.githubusercontent.com/dotako/tower/main/MapInfos.json
 data/System.json https://raw.githubusercontent.com/dotako/tower/main/System.json
