@@ -365,3 +365,20 @@ data/Troops.json https://raw.githubusercontent.com/dotako/tower/main/Troops.json
 data/Weapons.json https://raw.githubusercontent.com/dotako/tower/main/Weapons.json
 
 <End of Version>
+
+<Version: 1.16>
+data/Actors.json https://raw.githubusercontent.com/dotako/tower/main/Actors.json
+data/Classes.json https://raw.githubusercontent.com/dotako/tower/main/Classes.json
+data/Enemies.json https://raw.githubusercontent.com/dotako/tower/main/Enemies.json
+data/Map046.json https://raw.githubusercontent.com/dotako/tower/main/Map046.json
+data/Map047.json https://raw.githubusercontent.com/dotako/tower/main/Map047.json
+data/Map048.json https://raw.githubusercontent.com/dotako/tower/main/Map048.json
+data/Map054.json https://raw.githubusercontent.com/dotako/tower/main/Map054.json
+data/MapInfos.json https://raw.githubusercontent.com/dotako/tower/main/MapInfos.json
+data/Skills.json https://raw.githubusercontent.com/dotako/tower/main/Skills.json
+data/System.json https://raw.githubusercontent.com/dotako/tower/main/System.json
+data/Troops.json https://raw.githubusercontent.com/dotako/tower/main/Troops.json
+
+
+<End of Version>
+
