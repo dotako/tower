@@ -378,7 +378,11 @@ data/MapInfos.json https://raw.githubusercontent.com/dotako/tower/main/MapInfos.
 data/Skills.json https://raw.githubusercontent.com/dotako/tower/main/Skills.json
 data/System.json https://raw.githubusercontent.com/dotako/tower/main/System.json
 data/Troops.json https://raw.githubusercontent.com/dotako/tower/main/Troops.json
-
-
 <End of Version>
 
+<Version: 1.17>
+data/Map051.json https://raw.githubusercontent.com/dotako/tower/main/Map054.json
+data/MapInfos.json https://raw.githubusercontent.com/dotako/tower/main/MapInfos.json
+data/System.json https://raw.githubusercontent.com/dotako/tower/main/System.json
+
+<End of Version>
