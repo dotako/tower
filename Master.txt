@@ -318,12 +318,50 @@ data/Map084.json https://raw.githubusercontent.com/dotako/tower/main/Map084.json
 <End of Version>
 
 <Version: 1.14>
+data/MapInfos.json https://raw.githubusercontent.com/dotako/tower/main/MapInfos.json
 data/CommonEvents.json https://raw.githubusercontent.com/dotako/tower/main/CommonEvents.json
-data/Actors.json https://raw.githubusercontent.com/dotako/tower/main/MapInfos.json
+data/Actors.json https://raw.githubusercontent.com/dotako/tower/main/Actors.json
 data/Map008.json https://raw.githubusercontent.com/dotako/tower/main/008.json
 data/Skills.json https://raw.githubusercontent.com/dotako/tower/main/Skills.json
 data/States.json https://raw.githubusercontent.com/dotako/tower/main/States.json
 data/Map076.json https://raw.githubusercontent.com/dotako/tower/main/Map076.json
 data/Systems.json https://raw.githubusercontent.com/dotako/tower/main/Systems.json
+<End of Version>
+
+<Version: 1.15>
+data/Actors.json https://raw.githubusercontent.com/dotako/tower/main/Actors.json
+data/Classes.json https://raw.githubusercontent.com/dotako/tower/main/Classes.json
+data/CommonEvents.json https://raw.githubusercontent.com/dotako/tower/main/CommonEvents.json
+data/Enemies.json https://raw.githubusercontent.com/dotako/tower/main/Enemies.json
+data/Map002.json https://raw.githubusercontent.com/dotako/tower/main/Map002.json
+data/Map003.json https://raw.githubusercontent.com/dotako/tower/main/Map003.json
+data/Map006.json https://raw.githubusercontent.com/dotako/tower/main/Map006.json
+data/Map015.json https://raw.githubusercontent.com/dotako/tower/main/Map015.json
+data/Map016.json https://raw.githubusercontent.com/dotako/tower/main/Map016.json
+data/Map017.json https://raw.githubusercontent.com/dotako/tower/main/Map017.json
+data/Map019.json https://raw.githubusercontent.com/dotako/tower/main/Map019.json
+data/Map021.json https://raw.githubusercontent.com/dotako/tower/main/Map021.json
+data/Map022.json https://raw.githubusercontent.com/dotako/tower/main/Map022.json
+data/Map023.json https://raw.githubusercontent.com/dotako/tower/main/Map023.json
+data/Map024.json https://raw.githubusercontent.com/dotako/tower/main/Map024.json
+data/Map025.json https://raw.githubusercontent.com/dotako/tower/main/Map025.json
+data/Map026.json https://raw.githubusercontent.com/dotako/tower/main/Map026.json
+data/Map029.json https://raw.githubusercontent.com/dotako/tower/main/Map029.json
+data/Map030.json https://raw.githubusercontent.com/dotako/tower/main/Map030.json
+data/Map031.json https://raw.githubusercontent.com/dotako/tower/main/Map031.json
+data/Map032.json https://raw.githubusercontent.com/dotako/tower/main/Map032.json
+data/Map035.json https://raw.githubusercontent.com/dotako/tower/main/Map035.json
+data/Map036.json https://raw.githubusercontent.com/dotako/tower/main/Map036.json
+data/Map037.json https://raw.githubusercontent.com/dotako/tower/main/Map037.json
+data/Map040.json https://raw.githubusercontent.com/dotako/tower/main/Map040.json
+data/Map041.json https://raw.githubusercontent.com/dotako/tower/main/Map041.json
+data/Map042.json https://raw.githubusercontent.com/dotako/tower/main/Map042.json
+data/Map051.json https://raw.githubusercontent.com/dotako/tower/main/Map051.json
+data/MapInfos.json https://raw.githubusercontent.com/dotako/tower/main/MapInfos.json
+data/Skills.json https://raw.githubusercontent.com/dotako/tower/main/Skills.json
+data/States.json https://raw.githubusercontent.com/dotako/tower/main/States.json
+data/System.json https://raw.githubusercontent.com/dotako/tower/main/System.json
+data/Troops.json https://raw.githubusercontent.com/dotako/tower/main/Troops.json
+data/Weapons.json https://raw.githubusercontent.com/dotako/tower/main/Weapons.json
 
 <End of Version>
